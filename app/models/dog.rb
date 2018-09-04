@@ -11,4 +11,5 @@ class Dog < ApplicationController
 
   def self.all
     @@all
+  end
 end
